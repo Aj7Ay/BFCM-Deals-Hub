@@ -16,6 +16,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🎓 | [DevSecOps Professional](https://checkout.practical-devsecops.com/course/devsecops-professional/) | Gain expertise in integrating security with DevOps, crafting secure CI/CD pipelines | 15% OFF with code **CSA MONTH SALE DISCOUNT** |
+|  🎓 | [DevSecOps Expert](https://checkout.practical-devsecops.com/course/devsecops-expert/) | Elevate your DevSecOps skills to an expert level with advanced tools and strategic planning | 15% OFF with code **CSA MONTH SALE DISCOUNT** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)

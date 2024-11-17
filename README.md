@@ -15,9 +15,9 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🎓 | [DevSecOps Professional](https://checkout.practical-devsecops.com/course/devsecops-professional/) | Gain expertise in integrating security with DevOps, crafting secure CI/CD pipelines | 15% OFF |
-|  🎓 | [DevSecOps Expert](https://checkout.practical-devsecops.com/course/devsecops-expert/) | Elevate your DevSecOps skills to an expert level with advanced tools and strategic planning | 15% OFF  |
-
+|  🎓 | [Certified DevSecOps Professional (CDP)](https://checkout.practical-devsecops.com/course/devsecops-professional/) | Gain expertise in integrating security with DevOps, crafting secure CI/CD pipelines | 15% OFF |
+|  🎓 | [Certified DevSecOps Expert (CDE)](https://checkout.practical-devsecops.com/course/devsecops-expert/) | Elevate your DevSecOps skills to an expert level with advanced tools and strategic planning | 15% OFF  |
+|  🎓 | [Certified AI Security Professional (CAISP)](https://checkout.practical-devsecops.com/course/ai-security-professional/) | Dive into AI security, mastering advanced threats and securing AI technologies, launching December 2024 with limited availability | Launching in December 2024 |
 
 
 [⬆️ Go to Top](#table-of-contents)

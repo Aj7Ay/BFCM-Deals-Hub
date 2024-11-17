@@ -70,16 +70,3 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⭐  | [UniScribe](https://www.uniscribe.co?utm_source=awesomebf) | UniScribe lets you upload audio and video files or paste YouTube URLs, quickly turning them into text with AI. It also creates summaries, mind maps, and key questions, and lets you export the text in different formats. | 40% OFF on annual plans. No code required. |
 |  🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
 |  ⭐ | [Inbox Zero](https://www.getinboxzero.com/) | Spend 50% less time on email. AI email assitant and bulk unsubscriber. | 20% OFF with code **FRIDAY2024** |
-
-### ✨ Other AI tools
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  ⭐ | [HeadshotPro](https:/www.headshotpro.com) | Professional business headshots, without a physical photo shoot | 20% OFF with code **FRIDAY20** |
-|  ⭐ | [LoveTunesAI](https://lovetunesai.com) | Personalized songs for your loved ones | 20% OFF with code **BF20OFF** |
-|  ⚡ | [IconKit](https://iconkit.ai?utm_source=awesomebf) | Create premium AI-generated icons for your next business, side project, or Discord server in seconds. | 20% OFF the 200 credit pack with **BLACKFRIDAY24** |
-|  🤖 | [Letty](https://www.useletty.com?ref=awesomebf) | Write professional emails that sound just like you in seconds | 30% OFF all plans with code **BF2024** |
-|  ⭐ | [Galaxy.ai](https://galaxy.ai) | All-in-one AI platform with 1500+ AI tools including ChatGPT, Claude, Gemini, Flux, and more | **50% OFF** - $15/month (down from $30) |
-|  🚀 | [JobsCopilot.ai](https://jobscopilot.ai/) | Get job interviews booked, while you sleep. The AI will find you the best job opportunities, and auto-apply to the jobs you want. Effortless! | 25% OFF with code **BLACKFRIDAY2024** |
-|  🧠 | [ChatUML](https://chatuml.com/?utm_source=tony) | An AI assistant that transforms your ideas into PlantUML diagrams effortlessly. | 40% OFF with code **BF24** |
-|  🛠️ | [ChatGPT Toolbox](https://www.ai-toolbox.co) | Supercharge your ChatGPT experience with features like folders, pinned chats, bulk actions, and more | **80% OFF!** |
-

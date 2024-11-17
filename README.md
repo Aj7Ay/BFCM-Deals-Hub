@@ -11,12 +11,12 @@ Don't forget to:
 
 Hi there! ❤️ I built multiple profitable products in public and also maintain this repo! Follow me on YouTube: https://www.youtube.com/@mr.cloudbook
 
-# 💻 Practical DevSecOps Deals
+# 💻 Practical DevSecOps Black-Friday Deals
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🎓 | [DevSecOps Professional](https://checkout.practical-devsecops.com/course/devsecops-professional/) | Gain expertise in integrating security with DevOps, crafting secure CI/CD pipelines | 15% OFF with code **CSA MONTH SALE DISCOUNT** |
-|  🎓 | [DevSecOps Expert](https://checkout.practical-devsecops.com/course/devsecops-expert/) | Elevate your DevSecOps skills to an expert level with advanced tools and strategic planning | 15% OFF with code **CSA MONTH SALE DISCOUNT** |
+|  🎓 | [DevSecOps Professional](https://checkout.practical-devsecops.com/course/devsecops-professional/) | Gain expertise in integrating security with DevOps, crafting secure CI/CD pipelines | 15% OFF |
+|  🎓 | [DevSecOps Expert](https://checkout.practical-devsecops.com/course/devsecops-expert/) | Elevate your DevSecOps skills to an expert level with advanced tools and strategic planning | 15% OFF  |
 
 
 

@@ -3,8 +3,8 @@
 A curated list of deals on Black Friday 2024.
 
 Don't forget to:
-- 👉 ...give this repo a star so it becomes trending on Black Friday! ⭐ 🤩
-- 👉 ...bookmark this page to come back here next year 2025! 📆🤩
+- 👉 ...Give this repo a star so it becomes trending on Black Friday! ⭐ 🤩
+- 👉 ...Bookmark this page to come back here next year 2025! 📆🤩
 
 
 ## Sponsored Deals

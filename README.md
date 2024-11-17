@@ -18,6 +18,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🎓 | [Certified DevSecOps Professional (CDP)](https://checkout.practical-devsecops.com/course/devsecops-professional/) | Gain expertise in integrating security with DevOps, crafting secure CI/CD pipelines | 15% OFF |
 |  🎓 | [Certified DevSecOps Expert (CDE)](https://checkout.practical-devsecops.com/course/devsecops-expert/) | Elevate your DevSecOps skills to an expert level with advanced tools and strategic planning | 15% OFF  |
 |  🎓 | [Certified AI Security Professional (CAISP)](https://checkout.practical-devsecops.com/course/ai-security-professional/) | Dive into AI security, mastering advanced threats and securing AI technologies, launching December 2024 with limited availability | Launching in December 2024 |
+|  🎓 | [Certified Cloud-Native Security Expert (CCNSE)](https://checkout.practical-devsecops.com/course/cloud-native-security-expert/) | Master cloud-native security concepts, hack and secure Kubernetes clusters, and understand Kubernetes authentication and authorization | 15% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)

@@ -25,3 +25,14 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🎓 | [Certified Security Champion (CSC)](https://checkout.practical-devsecops.com/course/certified-security-champion/) | Secure web development, defend against the top 10 threats, find and fix code vulnerabilities, and apply agile techniques to protect the organization from new attacks. | 15% OFF |
 |  🎓 | [Certified Container Security Expert (CCSE)](https://checkout.practical-devsecops.com/course/container-security-expert/) | Master container security fundamentals, embed security in container images, analyze weaknesses, and learn defense techniques. | 15% OFF |
 
+
+# 💻 Cybersecurity Training Deals
+
+|  | Name | Description | Discount Code & Terms | Link |
+| -- | --- | ------ | ------ | ------ |
+| 🛡️ | PentesterLab Pro | 27% OFF Annual Subscription, perfect for hands-on penetration testing practice | Regular: $199 → Now: $146<br>Student Special: $34.99 → $25.99<br>Drops: Nov 28 | [PentesterLab Pro](https://pentesterlab.com/pro) |
+| 🛡️ | LetsDefend | 55% OFF Annual Plans, real-world SOC analyst training | Code: BLCKFRDY55<br>Valid: Nov 28 | [LetsDefend](https://letsdefend.io/) |
+| 🛡️ | Enterprise Security Training by ISA | 30% OFF Industrial Cybersecurity Programs, focus on critical infrastructure protection | Code: BFCM24<br>Valid: Nov 25 - Dec 2 | [ISA Training](https://www.isa.org/) |
+| 🛡️ | CloudBreach | Premium AWS/Azure Security Training, must-have for cloud security specialists | Unlocks: Nov 25 | [CloudBreach](https://cloudbreach.io/) |
+| 🛡️ | DroneSec Bundle | 20% OFF Counter-Drone Security, unique niche in drone threat prevention | Valid: Nov 22-30 | [DroneSec Training](https://training.dronesec.com/p/bundle) |
+| 🛡️ | Altered Security | 20% OFF All Courses, 25% OFF Multi-Course Bundles, includes 2025 Q1/Q2 Bootcamps | Valid until: Dec 2 | [Altered Security](https://www.alteredsecurity.com/) |

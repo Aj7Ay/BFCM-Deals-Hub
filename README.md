@@ -61,6 +61,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms | Link |
 | -- | --- | ------ | ------ | ------ |
+| 🛡️ | Security Blue Team | 50% OFF on BTL1, BTL2, CSOM, and BTLO training | **Unlocks**: Nov 22 - Dec 6 | [Security Blue Team](https://www.securityblue.team/certifications/blue-team-level-2) |
 | 🛡️ | PentesterLab Pro | 27% OFF Annual Subscription, perfect for hands-on penetration testing practice | Regular: $199 → Now: $146<br>Student Special: $34.99 → $25.99<br>Drops: Nov 28 | [PentesterLab Pro](https://pentesterlab.com/pro) |
 | 🛡️ | LetsDefend | 55% OFF Annual Plans, real-world SOC analyst training | Code: BLCKFRDY55<br>Valid: Nov 28 | [LetsDefend](https://letsdefend.io/) |
 | 🛡️ | Enterprise Security Training by ISA | 30% OFF Industrial Cybersecurity Programs, focus on critical infrastructure protection | Code: BFCM24<br>Valid: Nov 25 - Dec 2 | [ISA Training](https://www.isa.org/) |

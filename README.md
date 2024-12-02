@@ -84,21 +84,21 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms | Link |
 | -- | --- | ------ | ------ | ------ |
-| 🛡️ | CKA + CKAD | 60% OFF USE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKA+CKAD](https://training.linuxfoundation.org/cyber-monday-2024/)|
-| 🛡️ | CKA + CKS | 60% OFF USE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKA+CKS](https://training.linuxfoundation.org/cyber-monday-2024/)|
-| 🛡️ | CKA + KCNA | 60% OFF USE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKAD+THRIVE](https://training.linuxfoundation.org/cyber-monday-2024/)|
+| 🛡️ | CKA + CKAD | 60% OFF USE CODE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKA+CKAD](https://training.linuxfoundation.org/cyber-monday-2024/)|
+| 🛡️ | CKA + CKS | 60% OFF USE CODE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKA+CKS](https://training.linuxfoundation.org/cyber-monday-2024/)|
+| 🛡️ | CKA + KCNA | 60% OFF USE CODE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKAD+THRIVE](https://training.linuxfoundation.org/cyber-monday-2024/)|
 
 # 🐧 CERTIFICATIONS BUNDLE ONLY 
 
 |  | Name | Description | Discount Code & Terms | Link |
 | -- | --- | ------ | ------ | ------ |
-| 🛡️ | KCNA+KCSA+CKA+CKAD+CKS | 60% OFF USE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKA+CKAD](https://training.linuxfoundation.org/cyber-monday-2024/)|
-| 🛡️ | CKS + KCSA | 60% OFF USE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKA+CKS](https://training.linuxfoundation.org/cyber-monday-2024/)|
-| 🛡️ | CKA + CKAD + CKS | 60% OFF USE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKAD+THRIVE](https://training.linuxfoundation.org/cyber-monday-2024/)|
+| 🛡️ | KCNA+KCSA+CKA+CKAD+CKS | 60% OFF USE CODE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKA+CKAD](https://training.linuxfoundation.org/cyber-monday-2024/)|
+| 🛡️ | CKS + KCSA | 60% OFF USE CODE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKA+CKS](https://training.linuxfoundation.org/cyber-monday-2024/)|
+| 🛡️ | CKA + CKAD + CKS | 60% OFF USE CODE ( CYBER24BUNDLE )  | **Unlocks**: DEC 2 - Dec 11 | [CKAD+THRIVE](https://training.linuxfoundation.org/cyber-monday-2024/)|
 
 # 🐧 Individual Certs and Courses CKA , CKAD ,CKS
 |  | Name | Description | Discount Code & Terms | Link |
 | -- | --- | ------ | ------ | ------ |
-| 🛡️ | CKA | 50% OFF USE ( CYBER24CC )  | **Unlocks**: DEC 2 - Dec 11 | [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)|
-| 🛡️ | CKAD | 50% OFF USE ( CYBER24CC )  | **Unlocks**: DEC 2 - Dec 11 | [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/))|
+| 🛡️ | CKA | 50% OFF USE CODE ( CYBER24CC )  | **Unlocks**: DEC 2 - Dec 11 | [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)|
+| 🛡️ | CKAD | 50% OFF USE CODE ( CYBER24CC )  | **Unlocks**: DEC 2 - Dec 11 | [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/))|
 

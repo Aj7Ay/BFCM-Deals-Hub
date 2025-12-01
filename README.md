@@ -274,39 +274,387 @@ ________________________________________________________________________________
 </tbody>
 </table>
 
+---
+
+# 🐧 Linux Foundation Cyber Week 2025 Deals
+
+**Take Command of Your Career & Save Up to 65%!** 🚀
+
+The Linux Foundation is offering incredible discounts on certifications, courses, and bundles during Cyber Week 2025. These are industry-recognized certifications that can significantly boost your career in cloud-native technologies, Kubernetes, security, and open source development.
+
+**📅 Offer Ends:** December 9, 2025 (23:59 UTC)  
+**🔗 Main Page:** [Linux Foundation Cyber Week 2025](https://training.linuxfoundation.org/cyber-week-2025/)
+
+---
+
+## 💰 Discount Categories
+
+| Category | Discount | Code |
+|----------|----------|------|
+| **Cert + Subscription Bundles** | Save 65% | Various |
+| **IT Professional Programs** | Save 60% | Various |
+| **Power Bundles** | Save 60% | Various |
+| **Cert + 1 Course Bundles** | Save 60% | Various |
+| **Cert Only Bundles** | Save 60% | Various |
+| **Kubestronaut Bundles** | Save 50% | Various |
+| **Instructor-led Courses** | Save 50% | `CW25ILT` |
+| **Individual Certs & Courses** | Save 50% | `CW25CC` |
+| **SkillCreds** | Save 50% | `CW25CC` |
+
+---
+
+## 🏆 Individual Certifications (Save 50% with Code: `CW25CC`)
+
+---
+
+### 💼 Professional & Specialist Certifications
+
+**Original Price: $445 | Cyber Week Price: $223 | Savings: $222**
+
+---
+
+#### **CNPE - Certified Cloud Native Platform Engineer**
+
+- **Category:** Cloud & Containers
+- **Price:** ~~$445~~ **$223** (Save $222)
+- **Description:** Validates expertise in designing, building, and managing cloud-native platforms. Demonstrates proficiency in Kubernetes, container orchestration, and cloud-native architecture patterns.
+- **Perfect For:** Platform Engineers, Cloud Architects, Kubernetes Administrators
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **LFCS - Linux Foundation Certified System Administrator**
+
+- **Category:** System Administration
+- **Price:** ~~$445~~ **$223** (Save $222)
+- **Description:** Validates the skills needed to become a system administrator. Covers essential Linux system administration tasks including user management, file systems, networking, and system services.
+- **Perfect For:** System Administrators, Linux Engineers, DevOps Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **CKA - Certified Kubernetes Administrator**
+
+- **Category:** Cloud & Containers
+- **Price:** ~~$445~~ **$223** (Save $222)
+- **Description:** The most recognized Kubernetes certification. Validates skills in Kubernetes cluster management, application lifecycle management, networking, storage, troubleshooting, and security.
+- **Perfect For:** Kubernetes Administrators, DevOps Engineers, Cloud Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **CKAD - Certified Kubernetes Application Developer**
+
+- **Category:** Cloud & Containers
+- **Price:** ~~$445~~ **$223** (Save $222)
+- **Description:** Validates skills in designing, building, configuring, and exposing cloud-native applications for Kubernetes. Focuses on application deployment, observability, and troubleshooting.
+- **Perfect For:** Application Developers, Cloud-Native Developers, DevOps Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **CKS - Certified Kubernetes Security Specialist**
+
+- **Category:** Cybersecurity
+- **Price:** ~~$445~~ **$223** (Save $222)
+- **Description:** Advanced certification focusing on Kubernetes security. Covers cluster hardening, system hardening, minimizing microservice vulnerabilities, and supply chain security.
+- **Perfect For:** Security Engineers, Kubernetes Security Specialists, DevSecOps Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+### 🎓 Associate Certifications
+
+**Original Price: $250 | Cyber Week Price: $125 | Savings: $125**
+
+---
+
+#### **CNPA - Certified Cloud Native Platform Engineering Associate**
+
+- **Category:** Cloud & Containers
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Validates foundational skills in cloud-native platform engineering. Demonstrates understanding of Kubernetes basics, containerization, and cloud-native principles.
+- **Perfect For:** Junior Platform Engineers, Cloud-Native Beginners, IT Professionals transitioning to cloud
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **CBA - Certified Backstage Associate**
+
+- **Category:** DevOps & Site Reliability
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Demonstrates proficiency in using Backstage for service catalog management. Validates skills in developer portals, service discovery, and platform engineering tools.
+- **Perfect For:** Platform Engineers, DevOps Engineers, Developer Experience Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **KCA - Kyverno Certified Associate**
+
+- **Category:** Cloud & Containers
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Certifies knowledge in policy management using Kyverno in Kubernetes environments. Validates skills in policy-as-code, admission control, and Kubernetes governance.
+- **Perfect For:** Kubernetes Administrators, Security Engineers, Platform Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **OTCA - OpenTelemetry Certified Associate**
+
+- **Category:** DevOps & Site Reliability
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Validates understanding of observability concepts using OpenTelemetry. Demonstrates proficiency in distributed tracing, metrics collection, and log management.
+- **Perfect For:** SRE Engineers, Observability Engineers, DevOps Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **CODE - Certified Open Source Developer for Enterprise**
+
+- **Category:** Open Source Best Practice
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Demonstrates skills in developing enterprise-level open source applications. Validates knowledge of open source development practices, licensing, and community engagement.
+- **Perfect For:** Open Source Developers, Software Engineers, Enterprise Developers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **BCP - Besu Certified Professional**
+
+- **Category:** Blockchain & Decentralized Identity
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Certifies expertise in using Hyperledger Besu for blockchain solutions. Validates skills in Ethereum-compatible blockchain development and deployment.
+- **Perfect For:** Blockchain Developers, Ethereum Developers, Distributed Systems Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **KCNA - Kubernetes and Cloud Native Associate**
+
+- **Category:** Cloud & Containers
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Validates foundational knowledge of Kubernetes and cloud-native technologies. Covers container basics, Kubernetes fundamentals, and cloud-native architecture.
+- **Perfect For:** Cloud-Native Beginners, IT Professionals, Developers new to Kubernetes
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **KCSA - Kubernetes and Cloud Native Security Associate**
+
+- **Category:** Cybersecurity
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Demonstrates understanding of security principles in Kubernetes environments. Validates foundational knowledge of container security, pod security, and network policies.
+- **Perfect For:** Security Engineers, Kubernetes Administrators, DevSecOps Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **CAPA - Certified Argo Project Associate**
+
+- **Category:** DevOps & Site Reliability
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Certifies proficiency in using Argo for workflows and continuous delivery. Validates skills in GitOps, CI/CD pipelines, and Kubernetes-native deployment strategies.
+- **Perfect For:** DevOps Engineers, GitOps Practitioners, CI/CD Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **CCA - Cilium Certified Associate**
+
+- **Category:** Cloud & Containers
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Validates knowledge of Cilium for networking and security in Kubernetes. Demonstrates proficiency in eBPF-based networking, service mesh, and network security policies.
+- **Perfect For:** Network Engineers, Kubernetes Administrators, Security Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **CGOA - Certified GitOps Associate**
+
+- **Category:** DevOps & Site Reliability
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Demonstrates understanding of GitOps principles and practices. Validates skills in declarative infrastructure, continuous deployment, and Git-based operations.
+- **Perfect For:** DevOps Engineers, Platform Engineers, SRE Engineers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **FSOSD - FINOS Financial Services Certified Open Source Developer**
+
+- **Category:** Open Source Best Practice
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Certifies skills in developing open source solutions for financial services. Validates knowledge of financial technology standards, compliance, and open source in finance.
+- **Perfect For:** Financial Technology Developers, FinTech Engineers, Open Source Developers in Finance
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **HFCP - Hyperledger Fabric Certified Practitioner**
+
+- **Category:** Blockchain & Decentralized Identity
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Validates expertise in using Hyperledger Fabric for blockchain applications. Demonstrates proficiency in enterprise blockchain development, smart contracts, and distributed ledger technology.
+- **Perfect For:** Blockchain Developers, Enterprise Blockchain Engineers, Distributed Systems Architects
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **ICA - Istio Certified Associate**
+
+- **Category:** Cloud & Containers
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Demonstrates knowledge of Istio for service mesh implementation. Validates skills in traffic management, security policies, observability, and microservices communication.
+- **Perfect For:** Service Mesh Engineers, Microservices Architects, Cloud-Native Developers
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **FCFP - FINOS Certified FDC3 Practitioner**
+
+- **Category:** Open Source Best Practice
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Certifies understanding of FDC3 standards for financial desktop interoperability. Validates skills in financial application integration, desktop connectivity, and financial data standards.
+- **Perfect For:** Financial Technology Developers, FinTech Integration Engineers, Financial Software Architects
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **PCA - Prometheus Certified Associate**
+
+- **Category:** DevOps & Site Reliability
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Validates skills in monitoring systems using Prometheus. Demonstrates proficiency in metrics collection, alerting, service discovery, and observability best practices.
+- **Perfect For:** SRE Engineers, Observability Engineers, DevOps Engineers, Monitoring Specialists
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **LFCA - Linux Foundation Certified IT Associate**
+
+- **Category:** System Administration
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Demonstrates foundational IT skills, especially in cloud computing. Validates knowledge of Linux basics, cloud fundamentals, and essential IT operations.
+- **Perfect For:** IT Professionals, Career Changers, Cloud Beginners, Junior System Administrators
+- **Discount Code:** `CW25CC`
+
+---
+
+#### **RVFA - RISC-V Foundational Associate**
+
+- **Category:** Emerging Technologies
+- **Price:** ~~$250~~ **$125** (Save $125)
+- **Description:** Certifies understanding of RISC-V architecture and development. Validates foundational knowledge of open-source instruction set architecture, embedded systems, and processor design.
+- **Perfect For:** Embedded Systems Engineers, Hardware Engineers, Processor Architects, IoT Developers
+- **Discount Code:** `CW25CC`
+
+---
+
+## 🎁 Cert + Subscription Bundles (Save 65%)
+
+Combine any certification with THRIVE-ONE Annual Subscription and save 65%!
+
+| Bundle | Original Price | Cyber Week Price | Savings |
+|--------|---------------|------------------|---------|
+| **LFCS + THRIVE-ONE** | $805 | $516 | $289 |
+| **CKA + THRIVE-ONE** | $805 | $516 | $289 |
+| **CKAD + THRIVE-ONE** | $805 | $516 | $289 |
+| **CKS + THRIVE-ONE** | $805 | $516 | $289 |
+| **CNPE + THRIVE-ONE** | $805 | $516 | $289 |
+| **LFCA + THRIVE-ONE** | $610 | $448 | $162 |
+| **CODE + THRIVE-ONE** | $610 | $448 | $162 |
+| **CNPA + THRIVE-ONE** | $610 | $448 | $162 |
+| **CBA + THRIVE-ONE** | $610 | $448 | $162 |
+| **BCP + THRIVE-ONE** | $610 | $448 | $162 |
+| **OTCA + THRIVE-ONE** | $610 | $448 | $162 |
+| **KCA + THRIVE-ONE** | $610 | $448 | $162 |
+| **KCNA + THRIVE-ONE** | $610 | $448 | $162 |
+| **KCSA + THRIVE-ONE** | $610 | $448 | $162 |
+| **CGOA + THRIVE-ONE** | $610 | $448 | $162 |
+| **ICA + THRIVE-ONE** | $610 | $448 | $162 |
+
+*THRIVE-ONE Annual discount is applicable to the first year of your subscription.*
+
+---
+
+## 🚀 Power Bundles (Save 60%)
+
+### Kubestronaut Bundles
+
+| Bundle | Original Price | Cyber Week Price | Includes |
+|--------|---------------|------------------|----------|
+| **Golden Kubestronaut Bundle** | $4,229 | $2,115 | CKA, CKAD, CKS, LFCS, CNPE, KCNA, KCSA, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA & CNPA |
+| **Kubestronaut to Golden Upgrade** | $2,669 | $1,335 | LFCS, CNPE, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA & CNPA |
+| **Kubestronaut Bundle** | $1,645 | $823 | KCNA, KCSA, CKA, CKAD & CKS |
+| **CKA to Kubestronaut Upgrade** | $1,235 | $618 | KCNA, KCSA, CKAD & CKS |
+| **CKAD to Kubestronaut Upgrade** | $1,235 | $618 | KCNA, KCSA, CKA & CKS |
+
+---
+
+## 📚 Instructor-Led Courses (Save 50% with Code: `CW25ILT`)
+
+| Course | Original Price | Cyber Week Price | Duration | Includes |
+|--------|---------------|------------------|----------|----------|
+| **eBPF Essentials: Security and Observability (LFWS304)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs |
+| **Designing Secure Microservices with Keycloak (LFWS305)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs |
+| **Kubernetes Troubleshooting (LFWS313)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs |
+| **Cilium in Action: Kubernetes Security & Insight (LFWS315)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs |
+| **Linux System Administration (LFS307)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free LFCS Exam & Simulator |
+| **Kubernetes Administration (LFS458)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free CKA Exam & Simulator |
+| **Kubernetes for App Developers (LFD459)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free CKAD Exam & Simulator |
+| **Kubernetes Security Fundamentals (LFS460)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free CKS Exam & Simulator |
+| **Cybersecurity Strategy & Risk Management for Executives (LFE7010)** | $4,500 | $2,250 | Four 90-minute Sessions | C-level Cybersecurity Leadership Strategy |
+
+---
+
+## 🎯 IT Professional Programs (Save 60%)
+
+Comprehensive programs designed to take your career to the next level with multiple certifications and courses bundled together. These structured learning paths typically take approximately 6 months to complete and include a combination of courses and certification exams.
+
+| Program | Original Price | Cyber Week Price | Savings | Description |
+|---------|---------------|------------------|---------|-------------|
+| **Cloud Engineer IT Professional Program** | $1,300 | $520 | $780 | Structured learning path focusing on cloud technologies, preparing participants for roles as cloud engineers |
+| **Advanced Cloud Engineer IT Professional Program** | $1,250 | $500 | $750 | Advanced program building upon foundational cloud skills, targeting experienced professionals aiming for senior cloud engineering positions |
+| **Cloud Native Developer IT Professional Program** | $1,000 | $400 | $600 | Focuses on developing applications in cloud-native environments, emphasizing containerization and microservices |
+| **DevOps IT Professional Program** | $750 | $300 | $450 | Covers the principles and practices of DevOps, including continuous integration, continuous delivery, and automation |
+
+**What's Included:**
+- Multiple courses and certification exams
+- Structured learning path (approximately 6 months)
+- Industry-recognized certifications upon completion
+- Free gift with each purchase during Cyber Week
+
+---
+
+## 📖 SkillCreds (Save 50% with Code: `CW25CC`)
+
+Get the skills you need, when you need them, and on the topics relevant to your career. SkillCreds are focused, practical learning experiences that help you build specific competencies quickly.
+
+---
+
+## ⚠️ Important Terms & Conditions
+
+- **Offer Period:** December 1, 2025 - December 9, 2025 (23:59 UTC)
+- **No Extensions:** This promotion cannot be extended beyond the deadline
+- **New Purchases Only:** Promotional prices limited to new, individual purchases only
+- **No Stacking:** Offer not valid with any other discount combinations
+- **THRIVE Subscription:** Annual discount applies to first year; Monthly discount applies to first three months
+- **Bonus Voucher:** An email will be sent by December 31, 2025 with instructions for a $100 (USD) voucher redeemable between January 1, 2026 - October 31, 2026
+- **Limit:** One $100 gift voucher per email address
+
+---
+
+## 🔗 Quick Links
+
+- [View All Certifications](https://training.linuxfoundation.org/certifications/)
+- [View All Courses](https://training.linuxfoundation.org/catalog/)
+- [View All Bundles](https://training.linuxfoundation.org/cyber-week-2025/)
+- [Japanese Courses & Certifications](https://training.linuxfoundation.org/cyber-week-2025/)
+
+---
+
 ## Conclusion
 
 Black Friday presents the perfect opportunity for security professionals to advance their careers with industry-recognized certifications. Practical DevSecOps courses combine hands-on labs, real-world scenarios, and vendor-neutral training to build expertise that employers value.
 If you are keen to learn about AI security, container protection, or threat modeling, these BFCM discounts make professional growth affordable. Don't let this limited-time opportunity pass; invest in your cybersecurity future and position yourself as an indispensable asset to your organization.
 
-## FAQs
-
-**1. How long do I get course access and updates?**
-
-You get 3 years of full course access, including all updates during that period.
-
-**2. Can I run the labs on my basic laptop?**
-
-Yes. We offer browser-based lab access, so you don't need to install any additional software. If you can browse the web, you can do the labs. No hardware requirements to worry about.
-
-**3. Do labs work on ARM-based Macs (M1/M2/M3)?**
-
-Yes. Since everything runs in your browser, ARM Macs work perfectly. No compatibility issues.
-
-**4. What if I get stuck at 2 AM on a weekend?**
-
-We have 24/7 technical and instructor support. Get help within minutes, any time, any day.
-
-**5. What exactly do I get with the course?**
-
-- 3 years of video content access
-- PDF course manual
-- Security checklists
-- 60 days of browser-based lab access
-- One exam attempt for certification
-- All future video course updates during your 3-year period
-
-**6. Do I have to start immediately after buying?**
-
-No. Buy now, start later, or whenever you're ready. You choose your start date, and your 3-year access begins from that date. You can start 2-3 months later if needed.  
-
+The Linux Foundation Cyber Week 2025 offers exceptional value on world-class certifications that are recognized globally. Whether you're looking to master Kubernetes, enhance your cloud-native skills, or specialize in security, these deals provide an affordable path to professional certification.

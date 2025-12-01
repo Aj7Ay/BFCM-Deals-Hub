@@ -320,6 +320,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Validates expertise in designing, building, and managing cloud-native platforms. Demonstrates proficiency in Kubernetes, container orchestration, and cloud-native architecture patterns.
 - **Perfect For:** Platform Engineers, Cloud Architects, Kubernetes Administrators
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineer-cnpe/)**
 
 ---
 
@@ -330,6 +331,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Validates the skills needed to become a system administrator. Covers essential Linux system administration tasks including user management, file systems, networking, and system services.
 - **Perfect For:** System Administrators, Linux Engineers, DevOps Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)**
 
 ---
 
@@ -340,6 +342,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** The most recognized Kubernetes certification. Validates skills in Kubernetes cluster management, application lifecycle management, networking, storage, troubleshooting, and security.
 - **Perfect For:** Kubernetes Administrators, DevOps Engineers, Cloud Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)**
 
 ---
 
@@ -350,6 +353,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Validates skills in designing, building, configuring, and exposing cloud-native applications for Kubernetes. Focuses on application deployment, observability, and troubleshooting.
 - **Perfect For:** Application Developers, Cloud-Native Developers, DevOps Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)**
 
 ---
 
@@ -360,6 +364,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Advanced certification focusing on Kubernetes security. Covers cluster hardening, system hardening, minimizing microservice vulnerabilities, and supply chain security.
 - **Perfect For:** Security Engineers, Kubernetes Security Specialists, DevSecOps Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist-cks/)**
 
 ---
 
@@ -376,6 +381,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Validates foundational skills in cloud-native platform engineering. Demonstrates understanding of Kubernetes basics, containerization, and cloud-native principles.
 - **Perfect For:** Junior Platform Engineers, Cloud-Native Beginners, IT Professionals transitioning to cloud
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineering-associate-cnpa/)**
 
 ---
 
@@ -386,6 +392,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Demonstrates proficiency in using Backstage for service catalog management. Validates skills in developer portals, service discovery, and platform engineering tools.
 - **Perfect For:** Platform Engineers, DevOps Engineers, Developer Experience Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/certified-backstage-associate-cba/)**
 
 ---
 
@@ -396,6 +403,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Certifies knowledge in policy management using Kyverno in Kubernetes environments. Validates skills in policy-as-code, admission control, and Kubernetes governance.
 - **Perfect For:** Kubernetes Administrators, Security Engineers, Platform Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/kyverno-certified-associate-kca/)**
 
 ---
 
@@ -406,6 +414,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Validates understanding of observability concepts using OpenTelemetry. Demonstrates proficiency in distributed tracing, metrics collection, and log management.
 - **Perfect For:** SRE Engineers, Observability Engineers, DevOps Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/opentelemetry-certified-associate-otca/)**
 
 ---
 
@@ -416,6 +425,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Demonstrates skills in developing enterprise-level open source applications. Validates knowledge of open source development practices, licensing, and community engagement.
 - **Perfect For:** Open Source Developers, Software Engineers, Enterprise Developers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/certified-open-source-developer-enterprise-code/)**
 
 ---
 
@@ -426,6 +436,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Certifies expertise in using Hyperledger Besu for blockchain solutions. Validates skills in Ethereum-compatible blockchain development and deployment.
 - **Perfect For:** Blockchain Developers, Ethereum Developers, Distributed Systems Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/besu-certified-professional-bcp/)**
 
 ---
 
@@ -436,6 +447,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Validates foundational knowledge of Kubernetes and cloud-native technologies. Covers container basics, Kubernetes fundamentals, and cloud-native architecture.
 - **Perfect For:** Cloud-Native Beginners, IT Professionals, Developers new to Kubernetes
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate-kcna/)**
 
 ---
 
@@ -446,6 +458,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Demonstrates understanding of security principles in Kubernetes environments. Validates foundational knowledge of container security, pod security, and network policies.
 - **Perfect For:** Security Engineers, Kubernetes Administrators, DevSecOps Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-security-associate-kcsa/)**
 
 ---
 
@@ -456,6 +469,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Certifies proficiency in using Argo for workflows and continuous delivery. Validates skills in GitOps, CI/CD pipelines, and Kubernetes-native deployment strategies.
 - **Perfect For:** DevOps Engineers, GitOps Practitioners, CI/CD Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/certified-argo-project-associate-capa/)**
 
 ---
 
@@ -466,6 +480,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Validates knowledge of Cilium for networking and security in Kubernetes. Demonstrates proficiency in eBPF-based networking, service mesh, and network security policies.
 - **Perfect For:** Network Engineers, Kubernetes Administrators, Security Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/cilium-certified-associate-cca/)**
 
 ---
 
@@ -476,6 +491,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Demonstrates understanding of GitOps principles and practices. Validates skills in declarative infrastructure, continuous deployment, and Git-based operations.
 - **Perfect For:** DevOps Engineers, Platform Engineers, SRE Engineers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/)**
 
 ---
 
@@ -486,6 +502,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Certifies skills in developing open source solutions for financial services. Validates knowledge of financial technology standards, compliance, and open source in finance.
 - **Perfect For:** Financial Technology Developers, FinTech Engineers, Open Source Developers in Finance
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/finos-financial-services-certified-open-source-developer-fsosd/)**
 
 ---
 
@@ -496,6 +513,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Validates expertise in using Hyperledger Fabric for blockchain applications. Demonstrates proficiency in enterprise blockchain development, smart contracts, and distributed ledger technology.
 - **Perfect For:** Blockchain Developers, Enterprise Blockchain Engineers, Distributed Systems Architects
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/hyperledger-fabric-certified-practitioner-hfcp/)**
 
 ---
 
@@ -506,6 +524,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Demonstrates knowledge of Istio for service mesh implementation. Validates skills in traffic management, security policies, observability, and microservices communication.
 - **Perfect For:** Service Mesh Engineers, Microservices Architects, Cloud-Native Developers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/istio-certified-associate-ica/)**
 
 ---
 
@@ -516,6 +535,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Certifies understanding of FDC3 standards for financial desktop interoperability. Validates skills in financial application integration, desktop connectivity, and financial data standards.
 - **Perfect For:** Financial Technology Developers, FinTech Integration Engineers, Financial Software Architects
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/finos-certified-fdc3-practitioner-fcfp/)**
 
 ---
 
@@ -526,6 +546,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Validates skills in monitoring systems using Prometheus. Demonstrates proficiency in metrics collection, alerting, service discovery, and observability best practices.
 - **Perfect For:** SRE Engineers, Observability Engineers, DevOps Engineers, Monitoring Specialists
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/prometheus-certified-associate-pca/)**
 
 ---
 
@@ -536,6 +557,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Demonstrates foundational IT skills, especially in cloud computing. Validates knowledge of Linux basics, cloud fundamentals, and essential IT operations.
 - **Perfect For:** IT Professionals, Career Changers, Cloud Beginners, Junior System Administrators
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/linux-foundation-certified-it-associate-lfca/)**
 
 ---
 
@@ -546,6 +568,7 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 - **Description:** Certifies understanding of RISC-V architecture and development. Validates foundational knowledge of open-source instruction set architecture, embedded systems, and processor design.
 - **Perfect For:** Embedded Systems Engineers, Hardware Engineers, Processor Architects, IoT Developers
 - **Discount Code:** `CW25CC`
+- **🔗 [View Certification Details](https://training.linuxfoundation.org/certification/risc-v-foundational-associate-rvfa/)**
 
 ---
 
@@ -553,24 +576,24 @@ The Linux Foundation is offering incredible discounts on certifications, courses
 
 Combine any certification with THRIVE-ONE Annual Subscription and save 65%!
 
-| Bundle | Original Price | Cyber Week Price | Savings |
-|--------|---------------|------------------|---------|
-| **LFCS + THRIVE-ONE** | $805 | $516 | $289 |
-| **CKA + THRIVE-ONE** | $805 | $516 | $289 |
-| **CKAD + THRIVE-ONE** | $805 | $516 | $289 |
-| **CKS + THRIVE-ONE** | $805 | $516 | $289 |
-| **CNPE + THRIVE-ONE** | $805 | $516 | $289 |
-| **LFCA + THRIVE-ONE** | $610 | $448 | $162 |
-| **CODE + THRIVE-ONE** | $610 | $448 | $162 |
-| **CNPA + THRIVE-ONE** | $610 | $448 | $162 |
-| **CBA + THRIVE-ONE** | $610 | $448 | $162 |
-| **BCP + THRIVE-ONE** | $610 | $448 | $162 |
-| **OTCA + THRIVE-ONE** | $610 | $448 | $162 |
-| **KCA + THRIVE-ONE** | $610 | $448 | $162 |
-| **KCNA + THRIVE-ONE** | $610 | $448 | $162 |
-| **KCSA + THRIVE-ONE** | $610 | $448 | $162 |
-| **CGOA + THRIVE-ONE** | $610 | $448 | $162 |
-| **ICA + THRIVE-ONE** | $610 | $448 | $162 |
+| Bundle | Original Price | Cyber Week Price | Savings | Link |
+|--------|---------------|------------------|---------|------|
+| **LFCS + THRIVE-ONE** | $805 | $516 | $289 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CKA + THRIVE-ONE** | $805 | $516 | $289 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CKAD + THRIVE-ONE** | $805 | $516 | $289 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CKS + THRIVE-ONE** | $805 | $516 | $289 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CNPE + THRIVE-ONE** | $805 | $516 | $289 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **LFCA + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CODE + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CNPA + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CBA + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **BCP + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **OTCA + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **KCA + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **KCNA + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **KCSA + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CGOA + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **ICA + THRIVE-ONE** | $610 | $448 | $162 | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
 
 *THRIVE-ONE Annual discount is applicable to the first year of your subscription.*
 
@@ -580,29 +603,29 @@ Combine any certification with THRIVE-ONE Annual Subscription and save 65%!
 
 ### Kubestronaut Bundles
 
-| Bundle | Original Price | Cyber Week Price | Includes |
-|--------|---------------|------------------|----------|
-| **Golden Kubestronaut Bundle** | $4,229 | $2,115 | CKA, CKAD, CKS, LFCS, CNPE, KCNA, KCSA, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA & CNPA |
-| **Kubestronaut to Golden Upgrade** | $2,669 | $1,335 | LFCS, CNPE, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA & CNPA |
-| **Kubestronaut Bundle** | $1,645 | $823 | KCNA, KCSA, CKA, CKAD & CKS |
-| **CKA to Kubestronaut Upgrade** | $1,235 | $618 | KCNA, KCSA, CKAD & CKS |
-| **CKAD to Kubestronaut Upgrade** | $1,235 | $618 | KCNA, KCSA, CKA & CKS |
+| Bundle | Original Price | Cyber Week Price | Includes | Link |
+|--------|---------------|------------------|----------|------|
+| **Golden Kubestronaut Bundle** | $4,229 | $2,115 | CKA, CKAD, CKS, LFCS, CNPE, KCNA, KCSA, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA & CNPA | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **Kubestronaut to Golden Upgrade** | $2,669 | $1,335 | LFCS, CNPE, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA & CNPA | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **Kubestronaut Bundle** | $1,645 | $823 | KCNA, KCSA, CKA, CKAD & CKS | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CKA to Kubestronaut Upgrade** | $1,235 | $618 | KCNA, KCSA, CKAD & CKS | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
+| **CKAD to Kubestronaut Upgrade** | $1,235 | $618 | KCNA, KCSA, CKA & CKS | [View Bundle](https://training.linuxfoundation.org/cyber-week-2025/) |
 
 ---
 
 ## 📚 Instructor-Led Courses (Save 50% with Code: `CW25ILT`)
 
-| Course | Original Price | Cyber Week Price | Duration | Includes |
-|--------|---------------|------------------|----------|----------|
-| **eBPF Essentials: Security and Observability (LFWS304)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs |
-| **Designing Secure Microservices with Keycloak (LFWS305)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs |
-| **Kubernetes Troubleshooting (LFWS313)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs |
-| **Cilium in Action: Kubernetes Security & Insight (LFWS315)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs |
-| **Linux System Administration (LFS307)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free LFCS Exam & Simulator |
-| **Kubernetes Administration (LFS458)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free CKA Exam & Simulator |
-| **Kubernetes for App Developers (LFD459)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free CKAD Exam & Simulator |
-| **Kubernetes Security Fundamentals (LFS460)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free CKS Exam & Simulator |
-| **Cybersecurity Strategy & Risk Management for Executives (LFE7010)** | $4,500 | $2,250 | Four 90-minute Sessions | C-level Cybersecurity Leadership Strategy |
+| Course | Original Price | Cyber Week Price | Duration | Includes | Link |
+|--------|---------------|------------------|----------|----------|------|
+| **eBPF Essentials: Security and Observability (LFWS304)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs | [View Course](https://training.linuxfoundation.org/course/ebpf-essentials-security-observability-lfws304/) |
+| **Designing Secure Microservices with Keycloak (LFWS305)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs | [View Course](https://training.linuxfoundation.org/course/designing-secure-microservices-keycloak-lfws305/) |
+| **Kubernetes Troubleshooting (LFWS313)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs | [View Course](https://training.linuxfoundation.org/course/kubernetes-troubleshooting-lfws313/) |
+| **Cilium in Action: Kubernetes Security & Insight (LFWS315)** | $995 | $498 | 1-day Live Instruction | Performance-Based Learning, Hands-on Labs | [View Course](https://training.linuxfoundation.org/course/cilium-action-kubernetes-security-insight-lfws315/) |
+| **Linux System Administration (LFS307)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free LFCS Exam & Simulator | [View Course](https://training.linuxfoundation.org/course/linux-system-administration-lfs307/) |
+| **Kubernetes Administration (LFS458)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free CKA Exam & Simulator | [View Course](https://training.linuxfoundation.org/course/kubernetes-administration-lfs458/) |
+| **Kubernetes for App Developers (LFD459)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free CKAD Exam & Simulator | [View Course](https://training.linuxfoundation.org/course/kubernetes-app-developers-lfd459/) |
+| **Kubernetes Security Fundamentals (LFS460)** | $3,250 | $1,625 | 3-day Live Instruction | Hands-on Labs, Free CKS Exam & Simulator | [View Course](https://training.linuxfoundation.org/course/kubernetes-security-fundamentals-lfs460/) |
+| **Cybersecurity Strategy & Risk Management for Executives (LFE7010)** | $4,500 | $2,250 | Four 90-minute Sessions | C-level Cybersecurity Leadership Strategy | [View Course](https://training.linuxfoundation.org/course/cybersecurity-strategy-risk-management-executives-lfe7010/) |
 
 ---
 
@@ -610,12 +633,12 @@ Combine any certification with THRIVE-ONE Annual Subscription and save 65%!
 
 Comprehensive programs designed to take your career to the next level with multiple certifications and courses bundled together. These structured learning paths typically take approximately 6 months to complete and include a combination of courses and certification exams.
 
-| Program | Original Price | Cyber Week Price | Savings | Description |
-|---------|---------------|------------------|---------|-------------|
-| **Cloud Engineer IT Professional Program** | $1,300 | $520 | $780 | Structured learning path focusing on cloud technologies, preparing participants for roles as cloud engineers |
-| **Advanced Cloud Engineer IT Professional Program** | $1,250 | $500 | $750 | Advanced program building upon foundational cloud skills, targeting experienced professionals aiming for senior cloud engineering positions |
-| **Cloud Native Developer IT Professional Program** | $1,000 | $400 | $600 | Focuses on developing applications in cloud-native environments, emphasizing containerization and microservices |
-| **DevOps IT Professional Program** | $750 | $300 | $450 | Covers the principles and practices of DevOps, including continuous integration, continuous delivery, and automation |
+| Program | Original Price | Cyber Week Price | Savings | Description | Link |
+|---------|---------------|------------------|---------|-------------|------|
+| **Cloud Engineer IT Professional Program** | $1,300 | $520 | $780 | Structured learning path focusing on cloud technologies, preparing participants for roles as cloud engineers | [View Program](https://training.linuxfoundation.org/it-professional-programs/cloud-engineer/) |
+| **Advanced Cloud Engineer IT Professional Program** | $1,250 | $500 | $750 | Advanced program building upon foundational cloud skills, targeting experienced professionals aiming for senior cloud engineering positions | [View Program](https://training.linuxfoundation.org/it-professional-programs/advanced-cloud-engineer/) |
+| **Cloud Native Developer IT Professional Program** | $1,000 | $400 | $600 | Focuses on developing applications in cloud-native environments, emphasizing containerization and microservices | [View Program](https://training.linuxfoundation.org/it-professional-programs/cloud-native-developer/) |
+| **DevOps IT Professional Program** | $750 | $300 | $450 | Covers the principles and practices of DevOps, including continuous integration, continuous delivery, and automation | [View Program](https://training.linuxfoundation.org/it-professional-programs/devops/) |
 
 **What's Included:**
 - Multiple courses and certification exams
@@ -628,6 +651,8 @@ Comprehensive programs designed to take your career to the next level with multi
 ## 📖 SkillCreds (Save 50% with Code: `CW25CC`)
 
 Get the skills you need, when you need them, and on the topics relevant to your career. SkillCreds are focused, practical learning experiences that help you build specific competencies quickly.
+
+**🔗 [View All SkillCreds](https://training.linuxfoundation.org/skillcreds/)**
 
 ---
 
